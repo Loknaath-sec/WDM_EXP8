@@ -79,5 +79,5 @@ else:
 ![image](https://github.com/user-attachments/assets/44be0af9-6bd1-4474-adc3-af0ee7f71e4d)
 
 ## Result:
-Thus, To perform Web Scraping on Amazon using (beautifulsoup) Python has been executed successfully.
+Thus, To perform Web Scraping on E-commerce using (beautifulsoup) Python has been executed successfully.
 
